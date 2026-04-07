@@ -52,4 +52,28 @@ The project integrates OpenCV and MediaPipe for hand tracking, along with a trai
 ---
 
 ## 📁 Project Structure
+Gesture_Car_Project/
+├── dataset.py
+├── train_model.py
+├── control_car.py
+├── model.pkl
+├── data.csv
+├── gesture_car.ino / PlatformIO code
 
+
+---
+
+## 🚀 Applications
+
+- Assistive technology (touchless control systems)  
+- Robotics and automation  
+- Human-computer interaction systems  
+- Smart vehicles and safety systems  
+
+---
+
+## 🏆 Conclusion
+
+This project demonstrates the integration of AI, computer vision, and embedded systems to create an intuitive and safe human-machine interface. It highlights the potential of gesture-based control systems in modern robotics and automation.
+
+---
